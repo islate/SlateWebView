@@ -2,8 +2,8 @@
 //  SlateWebView.h
 //  SlateCore
 //
-//  Created by lin yize on 14-3-21.
-//  Copyright (c) 2014年 Modern Mobile Digital Media Company Limited. All rights reserved.
+//  Created by lin yize on 16-6-23.
+//  Copyright (c) 2016年 islate. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
